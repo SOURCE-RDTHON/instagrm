@@ -7,7 +7,7 @@
         "Telegra."
     ],
     "website": "#TODO",
-    "repository": "https://github.com/hackelite01/BinCheckerBot",
+    "repository": "https://github.com/SOURCE-RDTHON/instagrm",
     "success_url": "/",
     "env": {
         "BOT_TOKEN": {
